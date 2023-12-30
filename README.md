@@ -1,4 +1,4 @@
 # first-demo
-<h>This is my first Git Repository</h>
+<h>This is my first Git Repository
 <br>
-Author: Vishnukant Yadav
+Author: Vishnukant Yadav </h>
